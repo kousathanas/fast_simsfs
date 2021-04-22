@@ -5,3 +5,7 @@ This program uses pre-computed tables for allele frequency vectors that have bee
 Go here to download the tables: http://www.homepages.ed.ac.uk/pkeightl//dfe_alpha/dfe-alpha-download.html.   
 
 A directory_config.dat text file specifying the directory of these tables is required.
+
+## Citation
+If you use this software to generate data for your publication please cite: 
+Kousathanas & Keightley (2013). https://doi.org/10.1534/genetics.112.148023
